@@ -1,7 +1,6 @@
 # importing core packages
 import streamlit as st
 import pandas as pd
-import numpy as np
 
 
 
@@ -9,7 +8,7 @@ import numpy as np
 # main app
 
 def main():
-	st.title("Visualisierungen")
+	st.title("Visualisierungen und Daten")
 
 	
        
